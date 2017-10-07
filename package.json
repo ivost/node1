@@ -1,0 +1,12 @@
+{
+  "name": "node1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ivost/node1.git",
+  "author": "Ivo Stoyanov <ivostoy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1"
+  }
+}
